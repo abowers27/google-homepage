@@ -1,0 +1,27 @@
+#navbar {
+	margin-left: 80%; margin-top: 1.2em;
+}
+#navbar a {
+	text-decoration: none; color: black; padding-right: .5em; padding-left: .25em;
+}
+#first {
+	border-right: solid black 1px;
+}
+#navbar a:hover {
+	text-decoration: underline; 
+}
+#pic img {
+	margin-left: 30%; margin-top: 3em;
+}
+form {
+	margin-left: 28%;
+}
+#srch {
+	margin-top: 1.5em; margin-bottom: 1em; width: 20em; font-size: 20pt;
+}
+#subs {
+	margin-left: 6em; font-size: 20pt; border-radius: .2em; background-color: gray; 
+}
+#subs:hover {
+	text-transform: uppercase; cursor: pointer;
+}
