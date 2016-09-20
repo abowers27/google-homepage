@@ -1,5 +1,8 @@
 #navbar {
-	margin-left: 80%; margin-top: 1.2em;
+	background-color: cornflowerBlue; height: 3em; width: 100%;
+}
+#logo {
+	width: 2em; height: 2em; background-color: white;
 }
 #navbar a {
 	text-decoration: none; color: black; padding-right: .5em; padding-left: .25em;
